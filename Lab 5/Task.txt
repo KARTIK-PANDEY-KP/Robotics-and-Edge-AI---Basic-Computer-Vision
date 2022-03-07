@@ -1,0 +1,10 @@
+Given the MNIST-Handwriting Digits Database
+
+
+
+1. Reshape the Input Image from 28x28 to 56x56
+2. Compare the Training time 
+[Between the 28x28 and 56x56 input Image]
+
+
+3. Compare the Accuracy [Between the 28x28 and 56x56 input Image]
